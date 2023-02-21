@@ -1,0 +1,9 @@
+# Assumes python 3.10
+pandas
+seaborn
+ipykernel
+jupyter
+numpy
+num2words
+scipy
+scikit-learn
