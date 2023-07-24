@@ -5,5 +5,5 @@ ipykernel
 jupyter
 numpy
 num2words
-scipy
+scipy==1.11.1
 scikit-learn
